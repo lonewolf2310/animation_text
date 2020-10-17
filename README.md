@@ -1,2 +1,2 @@
-# animation_text
-Animation_Text
+# animation_text_color
+Animation_Text_color
